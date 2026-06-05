@@ -1,11 +1,10 @@
 @font-face {
     font-family: 'cappuccicons';
-    src: url('https://raw.githubusercontent.com/Luxury-Poison/Uso-Personal/main/Iconos/Cappuccions/Cappuccicons.eot');
-    src: url('https://raw.githubusercontent.com/Luxury-Poison/Uso-Personal/main/Iconos/Cappuccions/Cappuccicons.eot?#iefix') format('embedded-opentype'),
-        url('https://raw.githubusercontent.com/Luxury-Poison/Uso-Personal/main/Iconos/Cappuccions/Cappuccicons.ttf') format('truetype'),
-        url('https://raw.githubusercontent.com/Luxury-Poison/Uso-Personal/main/Iconos/Cappuccions/Cappuccicons.woff') format('woff'),
-        url('https://raw.githubusercontent.com/Luxury-Poison/Uso-Personal/main/Iconos/Cappuccions/Cappuccicons.svg#cappuccicons') format('svg');
-
+    src: url('https://luxury-poison.github.io/Uso-Personal/Iconos/Cappuccions/Cappuccicons.eot');
+    src: url('https://luxury-poison.github.io/Uso-Personal/Iconos/Cappuccions/Cappuccicons.eot?#iefix') format('embedded-opentype'),
+        url('https://luxury-poison.github.io/Uso-Personal/Iconos/Cappuccions/Cappuccicons.ttf') format('truetype'),
+        url('https://luxury-poison.github.io/Uso-Personal/Iconos/Cappuccions/Cappuccicons.woff') format('woff'),
+        url('https://luxury-poison.github.io/Uso-Personal/Iconos/Cappuccions/Cappuccicons.svg#cappuccicons') format('svg');
 
         font-weight: normal;
         font-style: normal;
