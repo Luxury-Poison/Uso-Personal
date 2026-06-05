@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.header span[ttl] {
+    font-size: 3.2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+
+.header span[dscr] {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.ans-ask .ans-ask-bub,
+.ans-ask .ans-ask-bub::before {
+    background-color: #211927;
+}
+
+/* Pineado */
+
+.entry-pinned {
+    color: #211927!important;
+    font-weight: bold;
+}
+
+
+/* Contenido */
+.mid-contents {
+    width: 80vw!important;
+}
+
+.mid-side {
+    width: 300px!important;
+}
+
+/* Barra lateral */
+span[titu] {
+    width: 100%;
+    color: #cab1da;
+    font-size: 16px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.estado {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.estado span {
+    font-size: 16px;
+    color: #cab1da;
+    font-weight: bold;
+}
+
+.estado span b {
+    font-size: 12px;
+    font-weight: normal;
+    text-transform: none;
+}
+
+.notify {
+    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    color: #cab1da;
+}
+
+
+
+
+/* Afiliados */
+.afiliados {
+    padding: 10px 0 0;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.afiliados > span {
+    color: #cab1da;
+    font-size: 16px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.afiliados > div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.afiliados > div > a > img {
+    --size: 45px;
+    width: var(--size);
+    height: var(--size);
+    border-radius: 8px;
+    object-fit: cover;
+    border: 1px solid var(--accent);
+    padding: 5px;
+    opacity: .4;
+}
+
+.afiliados > div > a > img:hover {
+    opacity: 1;
+}
+
+
+/* Otros */
+.entry-body p strong,
+.entry-body ul li strong {
+    color: #EAB87E;
+}
+
+.entry-body .entry-title {
+    color: #EAB87E;
+    text-align: center;
+}
+
+
+span[crdts] {
+    text-transform: none;
+}
