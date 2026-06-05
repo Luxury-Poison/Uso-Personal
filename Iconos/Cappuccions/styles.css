@@ -1,10 +1,12 @@
 @font-face {
     font-family: 'cappuccicons';
-    src: url('https://dl.dropboxusercontent.com/scl/fi/nmbt2i1rb1v08992ryl66/Cappuccicons.eot?rlkey=c7pu1rj0xpk07r8v8tw2wpll8&dl=0');
-    src: url('https://dl.dropboxusercontent.com/scl/fi/xs7j3ztaxm8gckqomlbrp/Cappuccicons2.eot?rlkey=da98b4guo41uohi5wxixlui0h&&dl=0') format('embedded-opentype'), 
-    url('https://dl.dropboxusercontent.com/scl/fi/w2n9ces1xiuf4f7t5gfyw/Cappuccicons.ttf?rlkey=jh1b2zw2a2ztc00kbeovbt41t&dl=0') format('truetype'), 
-    url('https://dl.dropboxusercontent.com/scl/fi/pcx79tg2mbqb6j5khz42a/Cappuccicons.woff?rlkey=9wyk9suw98oztrmrkouxu166f&dl=0') format('woff'), 
-    url('https://dl.dropboxusercontent.com/scl/fi/di2xqep3zmggy2q5o1h28/Cappuccicons.svg?rlkey=ibmpvjmw0h8eh5s9x01gvrtzn&dl=0#cappuccicons') format('svg');
+    src: url('https://raw.githubusercontent.com/Luxury-Poison/Uso-Personal/main/Iconos/Cappuccions/Cappuccicons.eot');
+    src: url('https://raw.githubusercontent.com/Luxury-Poison/Uso-Personal/main/Iconos/Cappuccions/Cappuccicons.eot?#iefix') format('embedded-opentype'),
+        url('https://raw.githubusercontent.com/Luxury-Poison/Uso-Personal/main/Iconos/Cappuccions/Cappuccicons.ttf') format('truetype'),
+        url('https://raw.githubusercontent.com/Luxury-Poison/Uso-Personal/main/Iconos/Cappuccions/Cappuccicons.woff') format('woff'),
+        url('https://raw.githubusercontent.com/Luxury-Poison/Uso-Personal/main/Iconos/Cappuccions/Cappuccicons.svg#cappuccicons') format('svg');
+
+
         font-weight: normal;
         font-style: normal;
         font-display: block;
